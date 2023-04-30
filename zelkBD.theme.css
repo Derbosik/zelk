@@ -11,7 +11,7 @@
            ▄▀  █▀▀ █   █▀▄
            ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀           */
  /*--------------IMPORTS------------- */
-@import url(https://schnensch0.github.io/zelk/main.css);
+@import url(https://github.com/Derbosik/zelk/blob/main/main.css);
 @import url(https://discord-custom-covers.github.io/usrbg/dist/usrbg.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
 /*--------------COLORS---------------*/
@@ -165,11 +165,4 @@
 }
 .root-8LYsGj[style*="--user-background"] .banner-1YaD3N {
   height: 240px;
-}
-/* fixes */
-.headerTop-3GPUSF, .nameTag-2Nlmsy.nameTag-H6kSJ0 {
-   padding-top: 2.5rem !important;
-}
-.avatarWrapper-eenWra.avatarPositionPremium-1zPBq9, .wrapper-1VLyxH.avatar-3QF_VA {
-   transform: translateY(75%) !important;
 }
