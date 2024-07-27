@@ -1,0 +1,8 @@
+{
+    "spec": 1,
+    "name": "Nothing Font (5x7) Regular",
+    "previewText": "A geometric typeface designed by Nothing for use as a corporate branding face",
+    "main": {
+        "NothingFont5x7": "https://github.com/Derbosik/zelk/raw/main/nothing-font-5x7.ttf?raw=1"
+    }
+}
